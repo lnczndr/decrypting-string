@@ -7,6 +7,7 @@ print ("\nWelcome to the program " + user, "!")
 
 print ( "PROGRAM #2: DECRYPTION".center(50,("-")))    
 #input_string
+#check each character
 # a = *
 # e = &
 # i = #
