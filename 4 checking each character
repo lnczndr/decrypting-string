@@ -1,0 +1,24 @@
+#LEGASPI, LANA CAZANDRA U - BSCPE 1-5
+
+#PSEUDOCODES
+#introduction
+user = input ("Enter username: ")
+print ("\nWelcome to the program " + user, "!")
+
+print ( "PROGRAM #2: DECRYPTION".center(50,("-")))    
+
+#input_string
+inp_phrase = input("Enter the phrase you want to decode: ")
+final_output = ""
+
+#check each character
+for i in range (len(inp_phrase)):
+
+# a = *
+# e = &
+# i = #
+# o = +
+# u = !
+#output/decrypted_string
+#outro
+#adding loop(ask if you want to try the program again?)
